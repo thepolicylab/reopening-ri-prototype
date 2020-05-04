@@ -360,12 +360,18 @@ a.button-text-yo:hover {
   text-decoration: underline;
 }
 
+.lightgray {
+  color: #ddd;
+}
 
-#closing-panels {
+.mid-gray {
+  color: #aaa;
+}
+
+
+.closing-panels {
   background: url(/assets/img/ri-banner.jpg) center;
   background-size: auto;
-  height: 140px;
-  background-color: #fff;
 }
 
 // @media all and (max-width: 50em) {
