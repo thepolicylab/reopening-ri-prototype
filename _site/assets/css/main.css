@@ -63,7 +63,7 @@ body {
   margin: 0;
   font-family: "Work Sans", "Work Sans", sans-serif;
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.33;
   color: #404040;
   text-align: left;
@@ -111,7 +111,7 @@ ul ol {
   margin-bottom: 0; }
 
 dt {
-  font-weight: 900; }
+  font-weight: 600; }
 
 dd {
   margin-bottom: .5rem;
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
   font-family: inherit;
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1;
   color: inherit; }
 
@@ -332,26 +332,26 @@ h6, .h6 {
 
 .lead {
   font-size: 1.4375rem;
-  font-weight: 600; }
+  font-weight: 500; }
 
 .display-1 {
   font-size: 4.3125rem;
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1; }
 
 .display-2 {
   font-size: 3.75rem;
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1; }
 
 .display-3 {
   font-size: 3.25rem;
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1; }
 
 .display-4 {
   font-size: 2.8125rem;
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1; }
 
 hr {
@@ -363,7 +363,7 @@ hr {
 small,
 .small {
   font-size: 80%;
-  font-weight: 400; }
+  font-weight: 300; }
 
 mark,
 .mark {
@@ -1779,7 +1779,7 @@ textarea.form-control {
 
 .btn {
   display: inline-block;
-  font-weight: 900;
+  font-weight: 600;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
@@ -2147,7 +2147,7 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5); }
 
 .btn-link {
-  font-weight: 400;
+  font-weight: 300;
   color: #1480a3;
   background-color: transparent; }
   .btn-link:hover {
@@ -5777,10 +5777,10 @@ button.bg-dark:focus {
   font-weight: 300 !important; }
 
 .font-weight-normal {
-  font-weight: 400 !important; }
+  font-weight: 300 !important; }
 
 .font-weight-bold {
-  font-weight: 900 !important; }
+  font-weight: 600 !important; }
 
 .font-italic {
   font-style: italic !important; }
@@ -5956,7 +5956,7 @@ a {
     font-size: 4.875rem; } }
 
 h1, .h1 {
-  font-weight: 900;
+  font-weight: 600;
   margin-bottom: 2rem; }
   @media (min-width: 27.5rem) {
     h1, .h1 {
@@ -6030,7 +6030,7 @@ label,
 p,
 li,
 address {
-  font-weight: 600; }
+  font-weight: 500; }
 
 p,
 ul,
@@ -6111,7 +6111,7 @@ a.button-text-yo:hover {
     color: #fff;
     background-color: transparent;
     display: block;
-    font-weight: 600;
+    font-weight: 500;
     padding: 1rem 1rem 0.75rem;
     text-decoration: none; }
     .nav__link:not(.btn):hover, .nav__link:not(.btn):focus {
@@ -6224,8 +6224,8 @@ a.button-text-yo:hover {
         max-height: 70px; } }
 
 .intro__header h1 {
-  font-weight: 900;
-  line-height: 1em;
+  font-weight: 600;
+  line-height: 1.1em;
   padding-top: 1em;
   text-transform: none; }
   .intro__header h1 i {
@@ -6464,7 +6464,7 @@ a.button-text-yo:hover {
     .team__member__header {
       padding-top: 0; } }
 .team__member__title {
-  font-weight: 400;
+  font-weight: 300;
   text-transform: capitalize; }
 .team__member__title, .team__member__position {
   text-align: center; }
@@ -6507,7 +6507,7 @@ a.button-text-yo:hover {
     border-bottom: 0.5px solid #bcbbc4; }
     .jobs__list__item a {
       display: block;
-      font-weight: 600;
+      font-weight: 500;
       padding: 0.75rem 1.5rem 0.625rem 0;
       position: relative;
       text-decoration: none; }
